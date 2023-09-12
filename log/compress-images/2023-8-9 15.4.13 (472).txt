@@ -1,0 +1,8 @@
+File from: [app/images/src/Black and white_-1.png]
+
+File to: [app/images/dest/Black and white_-1.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\firstV\tempolate\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o app/images/dest/Black and white_-1.png app/images/src/Black and white_-1.png
+  error: 'app\images\dest\Black and white_-1.png' exists; not overwriting
